@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=01FF00">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=FFFFFF">
 </p>
 <h2 align=center>Contact me</h2>
 <p align=center>
