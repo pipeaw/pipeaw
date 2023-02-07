@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=MrBased&show_icons=true&theme=transparent&count_private=true&title_color=FFEE00&custom_title=Felipe%27s%20GitHub%20Stats&text_color=18A9FA&icon_color=1FD51F&hide_rank=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrBased&show_icons=true&theme=transparent&count_private=true&title_color=FFEE00&custom_title=Felipe%27s%20GitHub%20Stats&text_color=18A9FA&icon_color=1FD51F&hide_rank=true&hide_border=true">
 </p>
 <h2 align=center>Languages</h2>
 <p align=center>
