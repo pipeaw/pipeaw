@@ -12,10 +12,12 @@
 <h2 align=center>Frameworks/libraries</h2>
 <p align=center>
   <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-React-131314?logo=react&logoColor=61DAFBF">
   <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=rubyonrails&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=01FF00">
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwindcss&logoColor=FFFFFF">
 </p>
 <h2 align=center>Contact me</h2>
 <p align=center>
