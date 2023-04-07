@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/-Python-0064FF?logo=python&logoColor=FFF300">
   <img src="https://img.shields.io/badge/-JavaScript-FFF300?logo=javascript&logoColor=000000">
   <img src="https://img.shields.io/badge/-Ruby-FF0000?logo=ruby&logoColor=000000">
-  <img src="https://img.shields.io/badge/-0064FF?logo=c&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-0064FF?logo=c&logoColor=FFFFFF&logoWidth=42">
 </p>
 <h2 align=center>Frameworks/libraries</h2>
 <p align=center>
