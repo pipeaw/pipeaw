@@ -19,7 +19,7 @@
 <p align=center>
   <img src="https://lanyard.cnrad.dev/api/271453671517061121?borderRadius=40px&bg=000000">
 </p>
-
+<!-- >
 ```math
 \mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: 5; position: fixed; left: 50dvi; top: 100dvb; width: 80dvmin; background-position: 0 0; height: 80dvmin; translate: -50% -50%; opacity: 1; background-repeat: no-repeat; background-size: 100% 100%; height: 1000px; width: 1000px; animation: 0.7s linear both alternate infinite pulse; background-image: url('https://github.com/MrBased/MrBased/blob/main/img/yaraspherepng.gif?raw=true');"]{}
 ```
